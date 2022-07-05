@@ -36,7 +36,7 @@ An interface for users to create quiz:
 ### Quizzes
 Quizzes created by the user:
 
-![user-quizzes](https://i.ibb.co/8gBWtfZ/image.png)
+![user-quizzes](https://i.ibb.co/kyC3LS7/image.png)
 
 Public Quizzes(All quizzes on the platform):
 
