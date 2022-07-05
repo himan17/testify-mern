@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;1,100;1,200;1,300;1,400;1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+body {
+    margin: 0;
+    font-family: Montserrat, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+.input {
+    border: none;
+    border-bottom: 1px solid darkgray;
+    font-size: 1em;
+    color: darkgray;
+    padding: 15px;
+    padding-left: 10px;
+    outline: none;
+}
+
+.btn {
+    background-color: rgb(124, 131, 253);
+    color: white;
+    font-size: .9em;
+    font-weight: 500;
+    /* width: auto; */
+    padding: 15px 20px;
+    cursor: pointer;
+    margin-left: auto;
+    border-radius: 30px;
+    background: rgb(124, 131, 253);
+    background: linear-gradient(0deg, rgba(124, 131, 253) 0%, rgb(32, 50, 245) 100%);
+    border: none;
+}
+
+  .btn:hover {
+     background: rgb(0,3,255);
+  background: linear-gradient(0deg, rgba(0,3,255,1) 0%, rgba(2,126,251,1) 100%);
+  }
+
+.btn-2 {
+    background-color: #36df68;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+    padding: 10px 20px;
+    font-weight: 500;
+}
+
+.card {
+    box-shadow: 0 6px 12px -2px rgb(50 50 93 / 25%), 0 3px 7px -3px rgb(0 0 0 / 30%);
+    border-radius: 10px;
+}
