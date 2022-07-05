@@ -40,7 +40,7 @@ Quizzes created by the user:
 
 Public Quizzes(All quizzes on the platform):
 
-![public-quizzes](https://i.ibb.co/zx4HSXh/image.png)
+![public-quizzes](https://i.ibb.co/LPGDh3p/image.png)
 
 ### Take Quiz Interface
 
